@@ -1,7 +1,7 @@
 <?php
 function hello()
 {
-	echo "bonjour !";
+	echo "hello !";
 }
 
 hello();
