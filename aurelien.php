@@ -1,4 +1,7 @@
 <?php
 
-echo "mon prenom est : aurélien";
+echo "mon prenom est : aurï¿½lien";
 echo "merci";
+echo "j'ai modifiÃ© ton fichier :)";
+echo "je ne veux pas";
+echo "test";
