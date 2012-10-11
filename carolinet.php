@@ -5,3 +5,7 @@ function hello()
 }
 
 hello();
+
+echo "bonjour !";
+
+echo "qui touche à mon fichier ????";
